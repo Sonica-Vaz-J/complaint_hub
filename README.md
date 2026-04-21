@@ -6,14 +6,20 @@ It allows users to submit complaints and admins to manage them.
 
 
 🚀 Features
+
 👤 User
+
 ->Register & Login
+
 ->Submit complaints/feedback
+
 ->View submitted complaints
+
 ->Track complaint status
 
 
 🛠️ Admin
+
 ->Admin login
 
 ->View all complaints
