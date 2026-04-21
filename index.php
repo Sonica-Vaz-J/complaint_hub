@@ -178,7 +178,7 @@
                         <i class="fas fa-sign-in-alt mr-2"></i>Login to View
                     </button>
                 <?php else: ?>
-                    <a href="user_dashboard.php" class="border-2 border-white text-white hover:bg-white hover:text-primary font-bold py-3 px-8 rounded-lg transition inline-block">
+                    <a href="user_dashboard.php" class="bg-white text-primary hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition">
                         <i class="fas fa-list mr-2"></i>View My Feedback
                     </a>
                 <?php endif; ?>
